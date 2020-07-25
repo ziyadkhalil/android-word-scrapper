@@ -18,9 +18,14 @@ In a five-hour period, develop an android app that scrapes the instabug website 
     <br />
 
  * #### java.net.HttpUrlConnection
-    As no third-party tools were allowed, I had to use the java.net package to handle the network call to the instabug website. 
-
+    As no third-party tools were allowed, I had to use the java.net package to handle the network call to the instabug website.  
+    <br />
+* #### RegEx
+    Basic regex from the java.util package for picking words out of the `<body></body>` tag
 
 ## Architecture     
 MVVM architecture was used
-![architecture| width=100](https://i.imgur.com/JzlhGOw.png)
+![architecture](https://i.imgur.com/JzlhGOw.png)
+
+## Screenshots
+![screenshot](https://i.imgur.com/VDK84wc.png)
