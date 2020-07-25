@@ -24,7 +24,7 @@ In a five-hour period, develop an android app that scrapes the instabug website 
     Basic regex from the java.util package for picking words out of the `<body></body>` tag
 
 ## Architecture     
-MVVM architecture was used
+MVVM architecture was used  
 ![architecture](https://i.imgur.com/JzlhGOw.png)
 
 ## Screenshots
